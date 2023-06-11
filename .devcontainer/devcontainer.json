@@ -2,5 +2,8 @@
     "name": "Clueless Notes Codespace",
     "features": {
         "ghcr.io/devcontainers/features/rust:1": {}
+    },
+    "build": {
+        "dockerfile": "Dockerfile"
     }
 }
