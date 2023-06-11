@@ -9,5 +9,5 @@ RUN sudo apt-get update && \
     libgtk-3-dev \
     libayatana-appindicator3-dev \
     librsvg2-dev && \
-    nodejs && \
+    sudo apt-get install -y nodejs && \
     sudo npm install -g pnpm
