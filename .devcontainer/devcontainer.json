@@ -4,8 +4,5 @@
 	"features": {
 		"ghcr.io/devcontainers/features/rust:1": {}
 	},
-	"settings": { 
-    "terminal.integrated.shell.linux": "/bin/bash"
-  },
-  "postCreateCommand": ""
+  	"postCreateCommand": ""
 }
