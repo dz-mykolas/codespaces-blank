@@ -1,6 +1,6 @@
 {
     "name": "Clueless Notes Codespace",
-    "image": "mcr.microsoft.com/devcontainers/base:jammy",
+    "image": "mcr.microsoft.com/devcontainers/base:Debian",
     "features": {
         "ghcr.io/devcontainers/features/rust:1": {}
     },
