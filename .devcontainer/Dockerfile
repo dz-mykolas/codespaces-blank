@@ -8,6 +8,4 @@ RUN sudo apt-get update && \
     libssl-dev \
     libgtk-3-dev \
     libayatana-appindicator3-dev \
-    librsvg2-dev && \
-    sudo apt-get install -y nodejs && \
-    sudo npm install -g pnpm
+    librsvg2-dev
